@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neingiusui.beachandbush.ch/sitemap.xml
